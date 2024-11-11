@@ -126,7 +126,6 @@ cities.shift(shiftcity);
 console.log(cities);
 
 
-//Question: to do difference between push(),pop(),shipt(),unshift() with proper defination and example.
 
 
 

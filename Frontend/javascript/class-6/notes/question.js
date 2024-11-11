@@ -48,5 +48,3 @@ console.log(fruits);
 
 */
 
-
-
